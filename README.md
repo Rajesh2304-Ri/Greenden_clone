@@ -11,16 +11,14 @@ A modern and responsive clone of the Greenden landing page built using **HTML** 
 - 💡 Clean, structured HTML5
 - 🌐 Clone of the Greenden website UI (Landing Page)
 
-## 📸 Preview
+ 
+ 
 
-![Greenden Clone Screenshot](./screenshot.png)  
-*(Include a screenshot of your project here)*
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - HTML5
 - Tailwind CSS v3
 
 ## 📁 Folder Structure
-Check it out here-
+Check it out here- https://rajesh2304-ri.github.io/Greenden_clone/
  
