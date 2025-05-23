@@ -19,6 +19,6 @@ A modern and responsive clone of the Greenden landing page built using **HTML** 
 - HTML5
 - Tailwind CSS v3
 
-## 📁 Folder Structure
+
 Check it out here- https://rajesh2304-ri.github.io/Greenden_clone/
  
